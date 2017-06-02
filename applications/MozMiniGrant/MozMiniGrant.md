@@ -116,7 +116,8 @@ The application has been written in the open, and feedback sought, via github (d
 ### Upload documents
 
 **Please upload an itemized project budget using the template linked below.**
-link to budget.md
+
+[Budget](https://github.com/alexmorley/RNROxford/blob/master/applications/MozMiniGrant/budget.md)
 
 ### Communications
 
