@@ -69,26 +69,25 @@ Matthew South, a software engineer at the Oxford centre for Human Brain Activity
 ### Proposal description
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
+
 Many funding bodies and journals are currently, or are on the verge of, taking measures to improve the reproducibility and generalisability of neuroscience research such as requiring scientists to share their code and/or data. However many scientists feel that they do not yet have the skills or time to enact these policies. The core aims of this workshop are to persuade scientists that training in these skills is time well-invested and showcase how this training can be made accessible to all who need it. Empowering a community of neuro-biologists to share their data gives their experiments the chance to have a greater impact, and provides invaluable resources for neuro-informaticians. The repository created at the end of the course will answer the question “How do I get started with making my neuroscience more reproducible?”. This, we believe, is where there is currently a gap in training resources, and the one we aim to fill. 
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
-*Activities*
-
-This workshop will provide a practical introduction to reproducible research practices and their application within neuroscience. It’s key aims are outreach - exposing more scientists to the key concepts in reproducible research, training - providing basic training in one of those concepts, and longevity -to introduce resources for further learning. The workshop will thus be split into two parts. The first part will consist of a set of talks from leaders in their fields introducing and discussing a few key concepts such as the current issues with reproducibility in neuroscience, open publication, reproducible analysis workflows and using open data platforms. These talks will highlight not only why changes in current practice are necessary but also how they can be directly beneficial to the scientists who take part. 
+*Activities*    This workshop will provide a practical introduction to reproducible research practices and their application within neuroscience. It’s key aims are outreach - exposing more scientists to the key concepts in reproducible research, training - providing basic training in one of those concepts, and longevity -to introduce resources for further learning. The workshop will thus be split into two parts. The first part will consist of a set of talks from leaders in their fields introducing and discussing a few key concepts such as the current issues with reproducibility in neuroscience, open publication, reproducible analysis workflows and using open data platforms. These talks will highlight not only why changes in current practice are necessary but also how they can be directly beneficial to the scientists who take part. 
 
 The second will be a set of break-out workshops that provide basic training in one particular area. Example workshop titles include “Git & Github: how to organise and share your code.”, “Best practices in scientific programming” and “Open-data: how, when and where to share your data”.
 
-*Outputs*
-While some new resources may be created for these workshops they will primarily consist of existing work that has been adapted to make it accessible and relevant to a neuroscience audience. Finally, they will be collated along with video recordings of the talks and hosted together in a publicly accessible repository/website.
+*Outputs*   While some new resources may be created for these workshops they will primarily consist of existing work that has been adapted to make it accessible and relevant to a neuroscience audience. Finally, they will be collated along with video recordings of the talks and hosted together in a publicly accessible repository/website.
 
 
 *Learning Outcomes*
-Reproducible Research: Why can’t we just carry on as we were?
-Open Data: What is is Open Data and why is it beneficial? Can I share my data and how should I do it? Finding & using other people’s data.
-Code Sharing & Version Control: What is version control and why should I use it? How does git work? (Why) should I share my code on Github?
-Best practices in Scientific Programming: Making your code readable. Stacks and workspaces.
-What pre-prints and registered reports can do for reproducibility.
+
+- Reproducible Research: Why can’t we just carry on as we were?
+- Open Data: What is is Open Data and why is it beneficial? Can I share my data and how should I do it? Finding & using other people’s data.
+- Code Sharing & Version Control: What is version control and why should I use it? How does git work? (Why) should I share my code on Github?
+- Best practices in Scientific Programming: Making your code readable. Stacks and workspaces.
+- What pre-prints and registered reports can do for reproducibility.
 
 
 **Provide key indicators you plan to use to measure project outcomes and source of data.** *(500 words)*
