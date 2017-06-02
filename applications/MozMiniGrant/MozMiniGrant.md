@@ -31,7 +31,7 @@ No.
 
 **Provide a brief description of your project or event**
 
-A workshop that provides an introduction to, and basic training in, a few key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from leader's in the field showcasing how they have implemented, and benefited from reproducible research practices. The afternoon will consist of some breakout workshops that give a more in-depth introduction to how people can implement these practices in their research.
+A workshop that provides an introduction to, and basic training in, a few key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from a few researchers who have lead the way in making their research reproducible showcasing how they have implemented, and benefited from, those reproducible research practices. The afternoon will consist of some breakout workshops that give a more in-depth introduction to how people can implement these practices in their research.
 
 
 **Total proposal budget in US Dollars (USD)**:
