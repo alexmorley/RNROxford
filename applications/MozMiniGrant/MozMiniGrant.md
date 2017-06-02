@@ -27,12 +27,16 @@ No.
 
 ### Proposal summary
 
+A workshop that provides an introduction to the key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from researchers who have lead the way in making their research reproducible. In the afternoon there will be breakout workshops showing people how to implement these practices.
+
+
 **Title** *(10 words)*: Reproducible Neuroscience Research Workshop Oxford
 
-**Provide a brief description of your project or event**
+**What is/are the proposed date/s for this event?**
+November 2017
 
-A workshop that provides an introduction to, and basic training in, a few key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from a few researchers who have lead the way in making their research reproducible showcasing how they have implemented, and benefited from, those reproducible research practices. The afternoon will consist of some breakout workshops that give a more in-depth introduction to how people can implement these practices in their research.
-
+**What is/are the proposed location/s for this event? (Include cities, states, provinces, countries, or regions.)**
+Oxford, UK
 
 **Total proposal budget in US Dollars (USD)**:
 
