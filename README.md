@@ -1,5 +1,4 @@
-# RNROxford
-Reproducible Neuroscience Research Oxford
+![Reproducible Neuroscience Research Oxford](./resources/logo.png)
 
 This is a repo for designing and organising a workshop in Oxford to help train & engage the neuroscience community in practices that can make our research more reproducible!
 
