@@ -27,7 +27,7 @@ No.
 
 ### Proposal summary
 
-**Title** *(10 words)*: Reproducible Neuroscience Research Oxford
+**Title** *(10 words)*: Reproducible Neuroscience Research Workshop Oxford
 
 **Provide a brief description of your project or event**
 
@@ -91,15 +91,14 @@ The second will be a set of break-out workshops that provide basic training in o
 
 **Provide key indicators you plan to use to measure project outcomes and source of data.** *(500 words)*
 
-Pre-workshop and post-workshop survey's aim to assess change in both attitudes towards, and skills in, the aspects of reproducible research that have been presented (these survey's will be availiable on the github repo soon). We will also have the analytics from workshop site -which will contain all of the materials & video's from the workshop. 
+Pre-workshop and post-workshop surveys will aim to assess change in both attitudes towards, and skills in, the aspects of reproducible research that have been presented. These survey's will be availiable on the github repo soon and will, where possible, reuse questions & measure from previously completed questionaires such that we can compare our data to a global baseline. We will also have the analytics from workshop site -which will contain all of the materials & video's from the workshop. 
 
 **Explain who will benefit from the project.** *(100 words)*
-
-
+Not only will the researchers who attend the workshop gain invaluable skills but the wider neuroscience community will then benifit from both the resources that the workshop generates directly as well as all of the output that the attendees (and resource users) have now been empowered to share.
 
 **List any risks or challenges that may affect the overall success of your project and now how Mozilla and/or others can help you to overcome these challenges.** *(250 words)*
 
-I think the the primary challenge associated with running this workshop will be persuading enough people to take a day out of their busy research schedules and attend the event. The main way we hope to avoid this is by personnally connecting with a few people in each of the neuroscience centres around oxford to make sure the event has enough exposure.
+I think the the primary challenge associated with running this workshop will be persuading enough people to take a day out of their busy research schedules and attend the event. The main way we hope to avoid this is by personnally connecting with a few people in each of the neuroscience centres around oxford to make sure the event has enough exposure, as well as ensuring there is a "save the date" for the event sufficiently far in advance. Another possible avenue to ensure good attendence could involve asking for a small deposit (e.g. £10) to attend the event.
 
 **Is this a new project or continuation? If new, please describe your qualifications to initiate the activity. If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online that highlight your recent work.** *(1000 words)*
 
