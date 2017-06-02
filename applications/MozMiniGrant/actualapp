@@ -1,0 +1,61 @@
+Alexander Morley
+
+alexander.morley@univ.ox.ac.uk
+
+004478****75
+
+MRC Brain Network Dynamics Unit
+University of Oxford
+Mansfield Road
+OX1 8TH
+
+University of Oxford
+
+Reproducible Neuroscience Research Workshop Oxford
+
+A workshop that provides an introduction to the key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from researchers who have lead the way in making their research reproducible. In the afternoon there will be breakout workshops showing people how to implement these practices.
+
+4000
+
+4000
+
+Matthew South, a software engineer at the Oxford centre for Human Brain Activity and trainee Software-Carpentry instructor, will be helping with the breakout workshops and providing his expertise in human-based research. The proposed workshop has the support of the both the UK (INCF) Neuroinformatics node (our contact here is Dr Stephen Eglen) -who will help reach out to putative speakers and the neuroinformatics community, and the Reproducible Research Oxford project who will help with planning the event and publicising it within Oxford. Further organisational support, if required, may be provided by my host organisation (the MRC Brain Network Dynamics Unit, University of Oxford).
+
+November 2017
+
+Oxford
+
+What we are trying to address.
+Many funding bodies and journals are currently, or are on the verge of, taking measures to improve the reproducibility and generalisability of neuroscience research such as requiring scientists to share their code and/or data. However many scientists feel that they do not yet have the skills or time to enact these policies. The core aims of this workshop are to persuade scientists that training in these skills is time well-invested and showcase how this training can be made accessible to all who need it. Empowering a community of neuro-biologists to share their data gives their experiments the chance to have a greater impact, and provides invaluable resources for neuro-informaticians. The repository created at the end of the course will answer the question “How do I get started with making my neuroscience more reproducible?”. This, we believe, is where there is currently a gap in training resources, and the one we aim to fill. 
+Activities & Format
+This workshop will provide a practical introduction to reproducible research practices and their application within neuroscience. It’s key aims are outreach - exposing more scientists to the key concepts in reproducible research, training - providing basic training in one of those concepts, and longevity -to introduce resources for further learning. The workshop will thus be split into two parts. 
+
+The first part will consist of a set of talks from leaders in their fields introducing and discussing a few key concepts such as the current issues with reproducibility in neuroscience, open publication, reproducible analysis workflows and using open data platforms. These talks will highlight not only why changes in current practice are necessary but also how they can be directly beneficial to the scientists who take part. 
+
+The second will be a set of break-out workshops that provide basic training in one particular area. Example workshop titles include “Git & Github: how to organise and share your code.”, “Best practices in scientific programming” and “Open-data: how, when and where to share your data”.
+
+Outputs
+While some new resources may be created for these workshops they will primarily consist of existing work that has been adapted to make it accessible and relevant to a neuroscience audience. Finally, they will be collated along with video recordings of the talks and hosted together in a publicly accessible repository/website.
+
+Takeaway Learning Outcomes - these are the questions that we want participants to be able to answer by the end of the event.
+- Reproducible Research: Why can’t we just carry on as we were?
+- Open Data: What is is Open Data and why is it beneficial? Can I share my data and how should I do it? Finding & using other people’s data.
+- Code Sharing & Version Control: What is version control and why should I use it? How does git work? (Why) should I share my code on Github?
+- Best practices in Scientific Programming: Making your code readable. Stacks and workspaces.
+- What pre-prints and registered reports can do for reproducibility.
+
+Key indicators & data sources
+Pre-workshop and post-workshop surveys will aim to assess change in both attitudes towards, and skills in, the aspects of reproducible research that have been presented. These survey's will be availiable on the github repo soon and will, where possible, reuse questions & measure from previously completed questionaires such that we can compare our data to a global baseline. We will also have the analytics from workshop site -which will contain all of the materials & video's from the workshop. 
+
+The entire project, including this application, has been written in the open in a github repository.
+
+All speakers will be required to share their slides and all materials for workshop will be openly licensed (or will be using material from openly licensed sources).
+
+The data and code used to analyse the survey results will be anonymized and then made available under an appropriate open license in a github repository.
+
+I will be writing posts and promoting the project on twitter as soon as we are sure that we will have funding!
+
+We do not currently have a sponsorship benefit package. However both the primary funding body (which if this application would be the Mozilla Foundation / Mozilla Science Labs) and the host institution (providing the space) will have their logo's and contributions clearly displayed in all promotional and online material. Furthermore the work and aims of the primary funding body will be outlined during the opening session of the workshop. 
+
+If the funding body has additional promotional material that they would like to share at the event, such as stickers or flyers, then this is also encouraged.
+
