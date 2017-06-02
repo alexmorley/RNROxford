@@ -29,6 +29,8 @@ No.
 
 **Title** *(10 words)*: Reproducible Neuroscience Research Oxford
 
+// what actually is it? I'd include "workshop"
+
 **Provide a brief description of your project or event**
 
 A workshop that provides an introduction to, and basic training in, a few key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from a few researchers who have lead the way in making their research reproducible showcasing how they have implemented, and benefited from, those reproducible research practices. The afternoon will consist of some breakout workshops that give a more in-depth introduction to how people can implement these practices in their research.
@@ -38,6 +40,8 @@ A workshop that provides an introduction to, and basic training in, a few key ar
 
 $4000
 
+// these *feels* high to me (having seen a lot of event budgets). I realise it may not be though! 
+
 **How much money in USD are you requesting from the Mozilla Foundation?**
 
 $4000
@@ -45,6 +49,8 @@ $4000
 **List your partners, if any, and the role/s they will play.** *(250 words)*
 
 Matthew South, a software engineer at the Oxford centre for Human Brain Activity and trainee Software-Carpentry instructor, will be helping with the breakout workshops and providing his expertise in human-based research. The proposed workshop has the support of the both the UK (INCF) Neuroinformatics node (our contact here is Dr Stephen Eglen) -who will help reach out to putative speakers and the neuroinformatics community, and the Reproducible Research Oxford project who will help with planning the event and publicising it within Oxford. Further organisational support, if required, may be provided by my host organisation (the MRC Brain Network Dynamics Unit, Univsersity of Oxford).
+
+// would suggest you reach out to the library after the application
 
 **On which Internet health issue(s) does your proposal focus?**
 
@@ -79,6 +85,7 @@ The second will be a set of break-out workshops that provide basic training in o
 
 *Outputs*   While some new resources may be created for these workshops they will primarily consist of existing work that has been adapted to make it accessible and relevant to a neuroscience audience. Finally, they will be collated along with video recordings of the talks and hosted together in a publicly accessible repository/website.
 
+// how're you going to record? this often costs money so either state inkind support in the budget or discuss elsewhere
 
 *Learning Outcomes*
 
@@ -93,13 +100,22 @@ The second will be a set of break-out workshops that provide basic training in o
 
 Pre-workshop and post-workshop survey's aim to assess change in both attitudes towards, and skills in, the aspects of reproducible research that have been presented (these survey's will be availiable on the github repo soon). We will also have the analytics from workshop site -which will contain all of the materials & video's from the workshop. 
 
+// you may want to consider attendee # & how to make people answer the survey
+// are there survey materials / measures you can reuse from elsewhere (there are often baseline figures for these sorts of things and if you can measure & show impact vs that it would be amazing). 
+
 **Explain who will benefit from the project.** *(100 words)*
 
-
+// You may still need to write this :) 
 
 **List any risks or challenges that may affect the overall success of your project and now how Mozilla and/or others can help you to overcome these challenges.** *(250 words)*
 
 I think the the primary challenge associated with running this workshop will be persuading enough people to take a day out of their busy research schedules and attend the event. The main way we hope to avoid this is by personnally connecting with a few people in each of the neuroscience centres around oxford to make sure the event has enough exposure.
+
+// would suggest you frame event more as a reproducability thing, than an "open" thing. 
+// I'd suggest cutting down on talks, and trying to get people doing ands on sooner. 
+// consider involving the library as a place to continue engagement with folks, advertise & find expertise
+// would suggest you plan to get a save the date up ASAP. Don't wait to have everything confirmed. 
+// would suggest having people pay £10 or similar up front, which you'll refund on attendance
 
 **Is this a new project or continuation? If new, please describe your qualifications to initiate the activity. If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online that highlight your recent work.** *(1000 words)*
 
@@ -110,6 +126,8 @@ This is a new project. I am currently a DPhil Student in Neuroscience and have a
 The entire project, including this application, has been written in the open in a github repository.
 
 All speakers will be required to share their slides and all materials for workshop will be openly licensed (or will be using material from openly licensed sources).
+
+// if you're going to generate data / code for the project you'll need licences for that separate from cc-by* I'd suggest advertising via the library & generally engaging them.
 
 I will be writing posts and promoting the project on twitter as soon as we are sure that we will have funding!
 
