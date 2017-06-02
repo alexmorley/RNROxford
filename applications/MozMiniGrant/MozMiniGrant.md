@@ -1,5 +1,5 @@
 # Mozilla Mini Grant application
-#### thanks to @whitakerlab from whom I borrowed the markdown base for writing this here :)
+#### thanks to @whitakerlab from whom I borrowed the [markdown version](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/mozilla-mini-grant/FUNDING_APPLICATIONS/MozillaScienceLabMiniGrant_June2017.md) of the application.
 
 
 ***1st June 2017***
@@ -31,7 +31,7 @@ No.
 
 **Provide a brief description of your project or event**
 
-A workshop that provides an introduction to, and basic training in, a few key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from leader's in the field showcasing how they have implemented, and benefited from reproducible research practices. And the afternoon will consist of some breakout workshops that give a more in-depth introduction to how people can implement these practices in their research.
+A workshop that provides an introduction to, and basic training in, a few key areas of reproducible neuroscience research. The morning of the workshop will consist of talks from a few researchers who have lead the way in making their research reproducible showcasing how they have implemented, and benefited from, those reproducible research practices. The afternoon will consist of some breakout workshops that give a more in-depth introduction to how people can implement these practices in their research.
 
 
 **Total proposal budget in US Dollars (USD)**:
@@ -44,8 +44,7 @@ $4000
 
 **List your partners, if any, and the role/s they will play.** *(250 words)*
 
-Matthew South, a software engineer at the Oxford centre for Human Brain Activity and trainee Software-Carpentry instructor, will be helping with the workshops and providing his expertise in human-based research. The proposed workshop has the support of the UK (INCF) Neuroinformatics node (our contact here is Dr Stephen Eglen) and ... who are playing an advisory role.
-
+Matthew South, a software engineer at the Oxford centre for Human Brain Activity and trainee Software-Carpentry instructor, will be helping with the breakout workshops and providing his expertise in human-based research. The proposed workshop has the support of the both the UK (INCF) Neuroinformatics node (our contact here is Dr Stephen Eglen) -who will help reach out to putative speakers and the neuroinformatics community, and the Reproducible Research Oxford project who will help with planning the event and publicising it within Oxford. Further organisational support, if required, may be provided by my host organisation (the MRC Brain Network Dynamics Unit, Univsersity of Oxford).
 
 **On which Internet health issue(s) does your proposal focus?**
 
@@ -92,7 +91,7 @@ The second will be a set of break-out workshops that provide basic training in o
 
 **Provide key indicators you plan to use to measure project outcomes and source of data.** *(500 words)*
 
-Pre-workshop and post-workshop survey's aim to assess change in both attitudes towards, and skills in, the aspects of reproducible research that have been presented (these survey's are availiable on the github repo). We will also have the analytics from workshop site -which will contain all of the materials & video's from the workshop. 
+Pre-workshop and post-workshop survey's aim to assess change in both attitudes towards, and skills in, the aspects of reproducible research that have been presented (these survey's will be availiable on the github repo soon). We will also have the analytics from workshop site -which will contain all of the materials & video's from the workshop. 
 
 **Explain who will benefit from the project.** *(100 words)*
 
@@ -100,18 +99,23 @@ Pre-workshop and post-workshop survey's aim to assess change in both attitudes t
 
 **List any risks or challenges that may affect the overall success of your project and now how Mozilla and/or others can help you to overcome these challenges.** *(250 words)*
 
+I think the the primary challenge associated with running this workshop will be persuading enough people to take a day out of their busy research schedules and attend the event. The main way we hope to avoid this is by personnally connecting with a few people in each of the neuroscience centres around oxford to make sure the event has enough exposure.
+
 **Is this a new project or continuation? If new, please describe your qualifications to initiate the activity. If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online that highlight your recent work.** *(1000 words)*
 
-This is a new project. I am currently a DPhil Student in Neuroscience and have a good knowledge of both the current leaders in making their neuroscience reproducible as well as the key issues themselves. (need to think more about this)
+This is a new project. I am currently a DPhil Student in Neuroscience and have a good knowledge of both the current leaders in making their neuroscience reproducible as well as the key issues in reproducible research in general. The issue is one I am passionate about and so there is no question that I am motivated enough to make sure the event succeeds. Recently I have completed the training to become a Software-Carpentry instructor and through this, and hundreds of hours of teaching experience, have developed a good understanding of how people learn. While my event-organising experience is currently limited to some small events I ran as the co-ordinator of a student charity I will have substantial support to drawn upon in this area from my partners and, being accutely aware of this inexperience, I will be particularly careful to get the support I need from them, and from others in the community who I know who have run these type of events.
 
 **Mozilla works in the open. How will you document and share your project progress with the community.** *(250 words)*
 
-Github. Only use open resources. Ask all speakers to share their slides and all materials for workshop will be openly licensed (or will be using material from openly licensed sources).
+The entire project, including this application, has been written in the open in a github repository.
 
-The application has been written in the open, and feedback sought, via github (during the Mozilla Sprint).
+All speakers will be required to share their slides and all materials for workshop will be openly licensed (or will be using material from openly licensed sources).
+
+I will be writing posts and promoting the project on twitter as soon as we are sure that we will have funding!
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
 
+The breakout workshop sessions can, if there is demand, provide a basis for future "study groups" based on those topics. If this is the case then we can provide the space for organising and holding any study groups that stem from this event. Furthermore the workshop itself can serve as a template for similar workshops in other institutions. If the workshop is funded I will commit to maintaining the site, and repository, on which the workshop will be based, for at least two further years.
 
 ### Upload documents
 
