@@ -2,6 +2,7 @@
 
 This is a repo for designing and organising a workshop in Oxford to help train & engage the neuroscience community in practices that can make our research more reproducible!
 
+A list of everyone who has contributed so far can be found [here](./attribution.md)
 
 ## Pitch
 This workshop will provide a practical introduction to reproducible research practices and their application within neuroscience. It’s key aims are **outreach** - exposing more scientists to the key concepts in reproducible research, **training** - providing basic training in one of those concepts, and **longevity** -to introduce resources for further learning. The workshop will thus be split into two parts - a set of talks in the morning, and breakout workshops in the afternoon.
