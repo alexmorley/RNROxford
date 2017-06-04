@@ -9,3 +9,4 @@ Thoughts:
 - Think not only about inclusivity but also accessibility of materials.
 - How to encourage people to read the CoC?
 - Who would be responsible for ensuring adherence?
+- Should apply to anyone hacking on the workshop as well as attendees.
