@@ -4,7 +4,7 @@ This is a repo for designing and organising a workshop in Oxford to help train &
 
 A list of everyone who has contributed so far can be found [here](./attribution.md).
 
-FYI if your in Oxford in September there's also going to be a series of talks open about reproducibility. It's not open to the public yet but feel free to email or message me on (twitter)[https://twitter.com/alex__morley] if you'd like to come.
+FYI if your in Oxford in September there's also going to be a series of talks open about reproducibility. It's not open to the public yet but feel free to email or message me on [twitter](https://twitter.com/alex__morley) if you'd like to come.
 
 ## Pitch
 This workshop will provide a practical introduction to reproducible research practices and their application within neuroscience. It’s key aims are **outreach** - exposing more scientists to the key concepts in reproducible research, **training** - providing basic training in one of those concepts, and **longevity** -to introduce resources for further learning. The workshop will thus be split into two parts - a set of talks in the morning, and breakout workshops in the afternoon.
