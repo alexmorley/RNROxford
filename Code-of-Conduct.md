@@ -1,4 +1,5 @@
 Resources to use:
+- Citizen Lab CoC: https://citizenlab.ca/summerinstitute/codeofconduct.html
 - MozSci CoC: https://science.mozilla.org/code-of-conduct
 - MozSci WoW: http://mozillascience.github.io/working-open-workshop/code_of_conduct/
 - AdaInitiative Guide: https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
